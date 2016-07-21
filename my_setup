@@ -4,3 +4,8 @@ apt-get install git-core
 git config --global user.name "ItayHenigsberg"
 git config --global user.email "itayhen@gmail.com"
 sudo apt-get install vim-gnome 
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install build-essential
+gcc -v
+make -v
